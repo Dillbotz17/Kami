@@ -4,8 +4,8 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['6285822347348', 'AullOFc', true],
-['6285822347348', 'ArullBotzMD', true]
+['6288271005021', 'Dill.hfz', true],
+['62882717220751', 'DillBotzMD', true]
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -34,12 +34,12 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.WM = 'ArullBotzMD'
+global.WM = 'DillbotzMD'
 global.linkgc = 'https://chat.whatsapp.com/Hs5rHr27xu49VRLgdliMfR'
-global.linkig = 'https://www.instagram.com/sahrulwara_____'
+global.linkig = 'https://www.instagram.com/Dill.hfz'
 global.deslink = ''
 global.titlink = 'Folllow Instagram'
-global.bodlink = '@sahrulwara_____'
+global.bodlink = '@Dill.hfz'
 
 global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
